@@ -1,8 +1,7 @@
 # DeepSADR
 =======
 # DeepSADR
-DeepSADR: A Deep Learning Model Based on Subsequence Interaction and
-Adaptive Readout for Enhanced Drug Response Prediction in Cancer Patients
+DeepSADR: Deep Transfer Learning with Subsequence Interaction and Adaptive Readout for Cancer Drug Response Prediction
 
 
 ## Overview 
@@ -41,3 +40,4 @@ performance on patient data.
   - #### fine-tune 
         'python fine_tune_model.py'
  
+
